@@ -9,7 +9,7 @@
 :warning: Esta versión solo funciona para la versión de Spotify de  [**Escritorio**](https://www.spotify.com/download/windows/), **no la de la Microsoft Store.**.
 
 ### Instalar/Actualizar:
-* Descarga e inicia [Spotify.bat](https://raw.githack.com/holasoyender/SpotifyBlocker/master/Spotify.bat)  
+* Descarga e inicia [Spotify.bat](https://raw.githack.com/holasoyender/SpotifyBlocker/main/Spotify.bat)  
 
 ### Desinstalar:
-* Descarga e inicia [Desinstalar.bat](https://raw.githack.com/holasoyender/SpotifyBlocker/master/Desinstalar.bat)  
+* Descarga e inicia [Desinstalar.bat](https://raw.githack.com/holasoyender/SpotifyBlocker/main/Desinstalar.bat)  
