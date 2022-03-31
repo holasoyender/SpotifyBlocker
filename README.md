@@ -2,7 +2,7 @@
     <h1 align="center">Spotify Add Blocker</h1>
     <h4 align="center">Bloqueador de anuncios para la versión de <strong>Windows</strong> de Spotify.</h4>
     <p align="center">
-        <strong>Útilma versión probada:</strong> 1.1.71.560.gc21c3367
+        <strong>Útilma versión probada:</strong> 1.1.81.604.gccacfc8c
     </p>
 </center>
 
